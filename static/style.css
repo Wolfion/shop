@@ -1,7 +1,22 @@
+
+body {
+    overflow: hidden;
+}
+
 .sidebar div.card div.card-body {
     min-height: 12rem;
 }
 
+
+.subcategory_row {
+    overflow-y: scroll;
+    max-height: 12rem;
+    white-space: nowrap;
+}
+
+.subcategory div.card div.card-body {
+    min-height: 11rem;
+}
 
 .product div.card div.card-body {
     min-height: 20rem;
