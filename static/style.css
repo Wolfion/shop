@@ -1,0 +1,17 @@
+.sidebar div.card div.card-body {
+    min-height: 12rem;
+}
+
+
+.product div.card div.card-body {
+    min-height: 20rem;
+}
+
+
+div.cart_header {
+    border-width: 0px;
+}
+
+div.cart_item {
+    border-width: 0px;
+}
